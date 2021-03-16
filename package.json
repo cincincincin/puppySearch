@@ -1,0 +1,28 @@
+{
+  "name": "puppysearch",
+  "version": "1.0.0",
+  "description": "Test for Google Search By Image™ functionalty.",
+  "main": "config.js",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cincincincin/puppySearch.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "image",
+    "test"
+  ],
+  "author": "Marcin Łosiowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cincincincin/puppySearch/issues"
+  },
+  "homepage": "https://github.com/cincincincin/puppySearch#readme"
+}
